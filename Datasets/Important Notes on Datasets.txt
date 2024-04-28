@@ -1,0 +1,4 @@
+FinQA dataset has been used for Question-Answering task 
+  --The dataset has already split into Train and Test version by the study which introduced this dataset, hence separate files for test and train has been given
+
+Financial Phrasebank dataset has been used for Sentiment Analysis task
